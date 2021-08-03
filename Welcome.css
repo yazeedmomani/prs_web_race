@@ -1,0 +1,30 @@
+body {
+	background-color: #ffd56b;
+	background-size: 100%;
+	color: #ff7b54;
+}
+h1 {
+	text-align: center;
+	line-height: 2;
+	letter-spacing: 15px;
+	font-size: 50px;
+	font-family: papyrus;
+	text-transform: uppercase;
+}
+nav a {
+	color: #ff7b54;
+	text-decoration: unset;
+	font-size: large;
+	width: 20px;
+	height: 20px;
+}
+nav a:hover {
+	text-decoration: underline;
+}
+span {
+	margin-left: 30px;
+}
+nav {
+	padding-bottom: 50px;
+	padding-top: 20px;
+}

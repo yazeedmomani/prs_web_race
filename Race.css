@@ -1,0 +1,98 @@
+form {
+	text-align: center;
+	font-weight: bold;
+	line-height: 2;
+	padding: 20px;
+	border: 2px solid black;
+	border-top-left-radius: 30%;
+	border-bottom-right-radius: 30%;
+	border-top-right-radius: 2%;
+	border-bottom-left-radius: 2%;
+	background-color: #939b62;
+	color: white;
+	margin-left: 30%;
+	font-size: large;
+}
+form {
+	width: 500px;
+}
+table {
+	text-align: center;
+	font-size: large;
+	line-height: 2;
+}
+h1 {
+	text-align: center;
+	line-height: 1;
+	letter-spacing: 15px;
+	font-size: 50px;
+	font-family: papyrus;
+	text-transform: uppercase;
+}
+body {
+	background-image: url(images/racing-track2-1454431502.jpg);
+	background-size: 100%;
+	color: #ff7b54;
+}
+button {
+	font-size: large;
+	border: 2px solid black;
+	padding-right: 5%;
+	padding-left: 5%;
+	border-radius: 30%;
+}
+
+button:hover {
+	color: white;
+	background-color: #ff7b54;
+}
+input:hover {
+	background-color: #ffb26b;
+}
+select:hover {
+	background-color: #ffb26b;
+}
+input[type="radio"]:checked + label {
+	text-decoration: line-through #ff7b54 4px;
+}
+input[type="radio"] + label:hover {
+	font-size: larger !important;
+}
+div {
+	width: 400px;
+}
+div {
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	margin-left: 10%;
+	font-size: small;
+}
+button:focus {
+	font-size: medium !important;
+}
+nav a {
+	color: white;
+	text-decoration: unset;
+	font-size: large;
+	width: 20px;
+	height: 20px;
+}
+nav a:hover {
+	color: #ff7b54;
+	text-decoration: underline;
+}
+span {
+	margin-left: 30px;
+}
+nav {
+	padding-bottom: 50px;
+	padding-top: 20px;
+}
+/* #invalid{
+	margin: 0px;
+	font-size: x-small;
+	border-radius: 100%;
+	padding: 5px 7px;
+	background-color: red;
+	color:white;
+} */
